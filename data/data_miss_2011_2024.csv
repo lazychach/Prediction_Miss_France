@@ -5,7 +5,7 @@ Miss Auvergne,Clémence Oleksy,19,1.76,Vichy,2010-10-17 00:00:00.000000000,2e d
 Miss Bourgogne,Alice Detollenaere,23,1.74,Chitry-les-Mines,2017-09-29 00:00:00.000000000,Prix du Mannequinat,2011,False,0,0,0,False,,4
 Miss Bretagne,Laury Thilleman,19,1.78,Brest,2010-10-26 00:00:00.000000000,"Miss France 2011
 Prix de la Culture générale",2011,True,12,11,23,True,1,5
-Miss Centre,Sarah Perrin,23,1.72,Champillet,2010-10-02 00:00:00.000000000,,2011,False,0,0,0,False,,6
+Miss Centre,Sarah Perrin,23,1.72,Champillet,2010-10-02 00:00:00.000000000,,2011,False,0,0,0,False,,35
 Miss Champagne-Ardenne,Kelly Renson,19,1.7,Vendeuvre-sur-Barse,2010-10-30 00:00:00.000000000,,2011,False,0,0,0,False,,7
 Miss Corse,Jade Morel,23,1.76,Castineta,2010-09-04 00:00:00.000000000,Top 12 (10e),2011,True,3,5,8,False,,8
 Miss Côte d'Azur,Marine Laugier,22,1.77,Biot,2010-08-28 00:00:00.000000000,Top 12 (12e),2011,True,2,2,4,False,,9
@@ -22,16 +22,16 @@ Miss Midi-Pyrénées,Alison Martin,24,1.73,Tournefeuille,2010-10-15 00:00:00.000
 Miss Nord-Pas-de-Calais,Angéline Lagache,22,1.73,Barlin,2010-09-25 00:00:00.000000000,Prix de l'hospitalité,2011,False,0,0,0,False,,20
 Miss Normandie,Juliette Polge,22,1.7,Le Noyer-en-Ouche,2010-10-08 00:00:00.000000000,Top 12 (11e),2011,True,4,2,6,False,,21
 Miss Nouvelle-Calédonie,Ornella Zinni,21,1.74,Nouméa,2010-04-23 00:00:00.000000000,,2011,False,0,0,0,False,,22
-Miss Orléanais,Chanel Haye,20,1.77,Luisant,2010-10-03 00:00:00.000000000,Top 12 (8e),2011,True,1,9,10,False,,23
+Miss Orléanais,Chanel Haye,20,1.77,Luisant,2010-10-03 00:00:00.000000000,Top 12 (8e),2011,True,1,9,10,False,,35
 Miss Pays de la Loire,Laetitia Legros,22,1.78,Saumur,2010-09-04 00:00:00.000000000,,2011,False,0,0,0,False,,24
-Miss Pays de Savoie,Marion Guichard,22,1.76,Saint-Alban-Leysse,2010-09-11 00:00:00.000000000,,2011,False,0,0,0,False,,25
+Miss Pays de Savoie,Marion Guichard,22,1.76,Saint-Alban-Leysse,2010-09-11 00:00:00.000000000,,2011,False,0,0,0,False,,30
 Miss Picardie,Anastasia Winnebroot,20,1.77,Compiègne,2010-09-26 00:00:00.000000000,3e dauphine,2011,True,9,10,19,True,4,26
 Miss Poitou-Charentes,Pearl Crosland,21,1.78,Angoulême,2010-09-18 00:00:00.000000000,Prix de l'élégance,2011,False,0,0,0,False,,27
 Miss Provence,Analisa Kebaili,18,1.71,Marseille,2010-10-23 00:00:00.000000000,5e dauphine,2011,True,6,9,15,False,,28
 Miss Réunion,Florence Arginthe,18,1.72,Saint-Joseph,2010-07-17 00:00:00.000000000,,2011,False,0,0,0,False,,29
 Miss Rhône-Alpes,Elise Charbonnier,21,1.76,Châtillon-sur-Chalaronne,2010-10-23 00:00:00.000000000,,2011,False,0,0,0,False,,30
 Miss Roussillon,Marion Castaing,22,1.76,Canet-en-Roussillon,2010-08-11 00:00:00.000000000,Top 12 (9e),2011,True,5,5,10,False,,31
-Miss Saint-Pierre-et-Miquelon,Léa Harnett,18,1.74,Saint-Pierre,2010-07-11 00:00:00.000000000,,2011,False,0,0,0,False,,32
+Miss Saint-Pierre-et-Miquelon,Léa Harnett,18,1.74,Saint-Pierre,2010-07-11 00:00:00.000000000,,2011,False,0,0,0,False,,37
 Miss Tahiti,Poehere Wilson,21,1.81,Papeete,2010-06-26 00:00:00.000000000,,2011,False,0,0,0,False,,33
 Miss Alsace,Delphine Wespiser,19,1.75,Magstatt-le-Bas,2011-10-02 00:00:00.000000000,Miss France 2012,2012,True,11,8,19,True,1,1
 Miss Aquitaine,Claire Zengerlin[3],20,1.74,Douzillac,2011-10-08 00:00:00.000000000,,2012,False,0,0,0,False,,2
@@ -39,7 +39,7 @@ Miss Auvergne,Célia Goninet,19,1.75,Clermont-Ferrand,2011-10-16 00:00:00.000000
 Miss Bourgogne,Élodie Paillardin,19,1.77,Gevrey-Chambertin,2011-09-30 00:00:00.000000000,Top 12 (11ème),2012,True,4,4,8,False,,4
 Miss Bretagne,Audrey Bönecker,23,1.72,Muzillac,2011-10-26 00:00:00.000000000,"Top 12 (9ème)
 Prix de l'élégance",2012,True,8,4,12,False,,5
-Miss Centre,Laure Wojnecki,18,1.8,Vierzon,2011-10-09 00:00:00.000000000,Prix de la Photogénie TV Mag,2012,False,0,0,0,False,,6
+Miss Centre,Laure Wojnecki,18,1.8,Vierzon,2011-10-09 00:00:00.000000000,Prix de la Photogénie TV Mag,2012,False,0,0,0,False,,35
 Miss Champagne-Ardenne,Sarah Huard,21,1.71,Reims,2011-10-21 00:00:00.000000000,,2012,False,0,0,0,False,,7
 Miss Corse,Camille Mallea,20,1.72,Bastelica,2011-09-03 00:00:00.000000000,,2012,False,0,0,0,False,,8
 Miss Côte d'Azur,Charlotte Murray[4],23,1.79,Biot,2011-08-08 00:00:00.000000000,"4ème Dauphine
@@ -58,9 +58,9 @@ Miss Midi-Pyrénées,Laura Madelain,18,1.77,Figeac,2011-10-07 00:00:00.000000000
 Miss Nord-Pas-de-Calais,Sophie Martin,21,1.73,Douai,2011-10-22 00:00:00.000000000,,2012,False,0,0,0,False,,20
 Miss Normandie,Sophie Duval,20,1.77,Saint-Martin-de-Bonfossé,2011-09-23 00:00:00.000000000,,2012,False,0,0,0,False,,21
 Miss Nouvelle-Calédonie,Océane Bichot[8],20,1.78,Nouméa,2011-04-23 00:00:00.000000000,,2012,False,0,0,0,False,,22
-Miss Orléanais,Audrey Delafoy,19,1.7,Illiers-Combray,2011-10-02 00:00:00.000000000,,2012,False,0,0,0,False,,23
+Miss Orléanais,Audrey Delafoy,19,1.7,Illiers-Combray,2011-10-02 00:00:00.000000000,,2012,False,0,0,0,False,,35
 Miss Pays de la Loire,Mathilde Couly,21,1.72,Héric,2011-09-25 00:00:00.000000000,1ère Dauphine,2012,True,12,6,18,True,2,24
-Miss Pays de Savoie,Valentine Borel-Hoffmann,18,1.79,Annecy,2011-10-15 00:00:00.000000000,,2012,False,0,0,0,False,,25
+Miss Pays de Savoie,Valentine Borel-Hoffmann,18,1.79,Annecy,2011-10-15 00:00:00.000000000,,2012,False,0,0,0,False,,30
 Miss Picardie,Anaïs Merle,20,1.74,Cires-lès-Mello,2011-10-30 00:00:00.000000000,,2012,False,0,0,0,False,,26
 Miss Poitou-Charentes,Manika Auxire,22,1.71,Blanzac,2011-09-24 00:00:00.000000000,,2012,False,0,0,0,False,,27
 Miss Provence,Solène Froment,19,1.81,Aix-en-Provence,2011-08-07 00:00:00.000000000,3ème Dauphine,2012,True,2,12,14,True,4,28
@@ -68,14 +68,14 @@ Miss Réunion,Marie Payet[9],19,1.78,Saint-Denis,2011-07-16 00:00:00.000000000,"
 Prix du Mannequinat",2012,True,10,10,20,True,3,29
 Miss Rhône-Alpes,Cindy Saroul,20,1.73,Valence,2011-10-23 00:00:00.000000000,,2012,False,0,0,0,False,,30
 Miss Roussillon,Julie Vialo,19,1.7,Toulouges,2011-08-05 00:00:00.000000000,Top 12 (10ème),2012,True,1,7,8,False,,31
-Miss Saint-Pierre-et-Miquelon,Lison Yon,20,1.73,Saint-Pierre,2011-07-09 00:00:00.000000000,,2012,False,0,0,0,False,,32
+Miss Saint-Pierre-et-Miquelon,Lison Yon,20,1.73,Saint-Pierre,2011-07-09 00:00:00.000000000,,2012,False,0,0,0,False,,37
 Miss Tahiti,Rauata Temauri[10],22,1.7,Arue,2011-06-24 00:00:00.000000000,,2012,False,0,0,0,False,,33
 Miss Alsace,Émilie Koenig[3],22,1.72,Griesheim-près-Molsheim,2012-06-17 00:00:00.000000000,,2013,False,0,0,0,False,,1
 Miss Aquitaine,Amélie Rigodanzo[4],20,1.77,Seyches,2012-10-13 00:00:00.000000000,,2013,False,0,0,0,False,,2
 Miss Auvergne,Sanne Spangenberg,19,1.8,Autry-Issards,2012-10-14 00:00:00.000000000,,2013,False,0,0,0,False,,3
 Miss Bourgogne,Marine Lorphelin,19,1.77,Charnay-lès-Mâcon,2012-09-29 00:00:00.000000000,Miss France 2013Prix de la Culture générale,2013,True,11,12,23,True,1,4
 Miss Bretagne,Estelle  Sabathier,21,1.74,Brest,2012-09-15 00:00:00.000000000,Top 12 (11e),2013,True,5,4,9,False,,5
-Miss Centre,Juliette Aquilina-Reis,21,1.72,Saint-Amand-Montrond,2012-10-06 00:00:00.000000000,,2013,False,0,0,0,False,,6
+Miss Centre,Juliette Aquilina-Reis,21,1.72,Saint-Amand-Montrond,2012-10-06 00:00:00.000000000,,2013,False,0,0,0,False,,35
 Miss Champagne-Ardenne,Déborah Trichet,22,1.82,Rethel,2012-10-05 00:00:00.000000000,Top 12 (8e),2013,True,3,8,11,False,,7
 Miss Corse,Louise Robert [5],22,1.8,Ajaccio,2017-06-27 03:41:32.307692288,,2013,False,0,0,0,False,,8
 Miss Côte d'Azur,Charlotte Mint,19,1.71,Beausoleil,2012-08-02 00:00:00.000000000,6e dauphine,2013,True,1,10,11,False,,9
@@ -92,23 +92,23 @@ Miss Midi-Pyrénées,Célia Guermoudj,22,1.7,Toulouse,2012-10-12 00:00:00.000000
 Miss Nord-Pas-de-Calais,Sophie Garénaux,22,1.72,Harnes,2012-09-28 00:00:00.000000000,2e dauphine,2013,True,10,8,18,True,3,20
 Miss Normandie,Pauline Llorca,24,1.71,Beuvillers,2012-09-21 00:00:00.000000000,Prix de la Sympathie,2013,False,0,0,0,False,,21
 Miss Nouvelle-Calédonie,Sandra Bergès,18,1.73,Nouméa,2017-06-17 11:04:36.923076864,,2013,False,0,0,0,False,,22
-Miss Orléanais,Joy Lartigue,21,1.72,Pierres,2012-10-07 00:00:00.000000000,,2013,False,0,0,0,False,,23
+Miss Orléanais,Joy Lartigue,21,1.72,Pierres,2012-10-07 00:00:00.000000000,,2013,False,0,0,0,False,,35
 Miss Pays de la Loire,Mélinda Paré,18,1.76,Le Lion-d'Angers,2012-09-14 00:00:00.000000000,4e dauphine,2013,True,7,8,15,True,5,24
-Miss Pays de Savoie,Graziella Byhet,24,1.77,Veyrier-du-Lac,2012-10-26 00:00:00.000000000,,2013,False,0,0,0,False,,25
+Miss Pays de Savoie,Graziella Byhet,24,1.77,Veyrier-du-Lac,2012-10-26 00:00:00.000000000,,2013,False,0,0,0,False,,30
 Miss Picardie,Émilie Mika,20,1.75,Abbeville,2012-10-21 00:00:00.000000000,Top 12 (10e),2013,True,8,2,10,False,,26
 Miss Poitou-Charentes,Typhanie Soulat,21,1.71,Fontaine-le-Comte,2012-09-22 00:00:00.000000000,,2013,False,0,0,0,False,,27
 Miss Provence,Marine Mahiques,19,1.76,Seillans,2012-08-03 00:00:00.000000000,Top 12 (9e),2013,True,6,4,10,False,,28
 Miss Réunion,Stéphanie Robert,21,1.72,Saint-Paul,2012-07-13 00:00:00.000000000,,2013,False,0,0,0,False,,29
 Miss Rhône-Alpes,Julie Jacquot,24,1.73,Lyon,2012-10-27 00:00:00.000000000,5e dauphine,2013,True,2,10,12,False,,30
 Miss Roussillon,Marilou Cubaynes,24,1.73,Cabestany,2012-08-05 00:00:00.000000000,Top 12 (12e),2013,True,4,2,6,False,,31
-Miss Saint-Martin et Saint-Barthélemy,Suzon Bonnet,22,1.74,Marigot,2012-10-20 00:00:00.000000000,,2013,False,0,0,0,False,,34
+Miss Saint-Martin et Saint-Barthélemy,Suzon Bonnet,22,1.74,Marigot,2012-10-20 00:00:00.000000000,,2013,False,0,0,0,False,,37
 Miss Tahiti,Hinarani de Longeaux[9],22,1.77,Papenoo,2012-06-23 00:00:00.000000000,1re dauphine,2013,True,12,11,23,True,2,33
 Miss Alsace,Laura Strubel[2],24,1.82,Urmatt,2013-06-21 00:00:00.000000000,Top 12 (8e)Prix de la Culture générale,2014,True,6,5,11,False,,1
 Miss Aquitaine,Camille Gafa [3],22,1.77,Bordeaux,2013-10-12 00:00:00.000000000,,2014,False,0,0,0,False,,2
 Miss Auvergne,Camille Blond [4],18,1.71,Moulins-sur-Allier,2013-10-13 00:00:00.000000000,5e dauphine,2014,True,10,6,16,False,,3
 Miss Bourgogne,Marie Reintz [5],22,1.79,Bligny-lès-Beaune,2013-10-20 00:00:00.000000000,Top 12 (11e),2014,True,3,2,5,False,,4
 Miss Bretagne,Marie Chartier[6],19,1.71,Étables-sur-Mer,2013-10-18 00:00:00.000000000,,2014,False,0,0,0,False,,5
-Miss Centre,Laure Moreau[7],20,1.8,Saint-Maur,2013-10-05 00:00:00.000000000,,2014,False,0,0,0,False,,6
+Miss Centre,Laure Moreau[7],20,1.8,Saint-Maur,2013-10-05 00:00:00.000000000,,2014,False,0,0,0,False,,35
 Miss Champagne-Ardenne,Louise Bataille [8],18,1.78,Reims,2013-10-26 00:00:00.000000000,,2014,False,0,0,0,False,,7
 Miss Corse,Cécilia Napoli [9],19,1.71,Bastia,2013-08-26 00:00:00.000000000,,2014,False,0,0,0,False,,8
 Miss Côte d'Azur,Aurianne Sinacola[10],19,1.75,Vallauris,2013-08-03 00:00:00.000000000,3e dauphineMiss « Cinnamon Hospitality 2014 »,2014,True,7,11,18,True,4,9
@@ -125,23 +125,23 @@ Miss Midi-Pyrénées,Audrey Bernes[20],20,1.81,Toulouse,2013-10-11 00:00:00.0000
 Miss Nord-Pas-de-Calais,Gaëlle Mans[21],23,1.8,Sains-en-Gohelle,2013-10-25 00:00:00.000000000,Prix de l'Hospitalité,2014,False,0,0,0,False,,20
 Miss Normandie,Ophélie Genest[22],19,1.72,Caen,2013-09-14 00:00:00.000000000,,2014,False,0,0,0,False,,21
 Miss Nouvelle-Calédonie,Agnès Latchimy[23],22,1.71,Nouméa,2013-08-03 00:00:00.000000000,,2014,False,0,0,0,False,,22
-Miss Orléanais,Flora Coquerel[24],19,1.82,Morancez,2013-10-06 00:00:00.000000000,Miss France 2014,2014,True,12,11,23,True,1,23
+Miss Orléanais,Flora Coquerel[24],19,1.82,Morancez,2013-10-06 00:00:00.000000000,Miss France 2014,2014,True,12,11,23,True,1,35
 Miss Pays de la Loire,Marie Plessis[25],22,1.73,Rochefort-sur-Loire,2013-09-21 00:00:00.000000000,,2014,False,0,0,0,False,,24
-Miss Pays de Savoie,Julie Legros[26],22,1.7,Aiton,2013-10-19 00:00:00.000000000,,2014,False,0,0,0,False,,25
+Miss Pays de Savoie,Julie Legros[26],22,1.7,Aiton,2013-10-19 00:00:00.000000000,,2014,False,0,0,0,False,,30
 Miss Picardie,Manon Beurey[27],19,1.75,Argœuves,2013-10-27 00:00:00.000000000,,2014,False,0,0,0,False,,26
 Miss Poitou-Charentes,Laura Pierre[28],19,1.74,Le Gua,2013-09-20 00:00:00.000000000,,2014,False,0,0,0,False,,27
 Miss Provence,Laëtizia Giovanelli Penmellen[29],19,1.71,Villecroze,2013-08-02 00:00:00.000000000,2e dauphine,2014,True,9,9,18,True,3,28
 Miss Réunion,Vanille M'Doihoma[30],21,1.75,Le Tampon,2013-08-17 00:00:00.000000000,Top 12 (12e),2014,True,2,2,4,False,,29
 Miss Rhône-Alpes,Mylène Angelier[31],22,1.77,Sarcey,2013-10-27 00:00:00.000000000,,2014,False,0,0,0,False,,30
 Miss Roussillon,Sabine Banet[32],21,1.74,Saleilles,2013-08-11 00:00:00.000000000,Top 12 (10e),2014,True,1,5,6,False,,31
-Miss Saint-Pierre-et-Miquelon,Clio Victorri[33],23,1.73,Saint-Pierre,2013-07-05 00:00:00.000000000,,2014,False,0,0,0,False,,32
+Miss Saint-Pierre-et-Miquelon,Clio Victorri[33],23,1.73,Saint-Pierre,2013-07-05 00:00:00.000000000,,2014,False,0,0,0,False,,37
 Miss Tahiti,Mehiata Riaria[34],22,1.77,Papeete,2013-06-28 00:00:00.000000000,1re dauphine,2014,True,11,12,23,True,2,33
 Miss Alsace,Alyssa Wurtz[4],24,1.75,Drusenheim,2014-06-20 00:00:00.000000000,4e dauphine,2015,True,8,9,17,True,5,1
 Miss Aquitaine,Malaurie Eugénie[5],20,1.76,Biganos,2014-10-11 00:00:00.000000000,3e dauphine,2015,True,9,8,17,True,4,2
 Miss Auvergne,Morgane Laporte[6],20,1.76,Terjat,2014-09-13 00:00:00.000000000,,2015,False,0,0,0,False,,3
 Miss Bourgogne,Janyce Guillot[7],20,1.82,Bruailles,2014-10-11 00:00:00.000000000,,2015,False,0,0,0,False,,4
 Miss Bretagne,Maïlys Bonnet[8],20,1.77,Vannes,2014-09-27 00:00:00.000000000,,2015,False,0,0,0,False,,5
-Miss Centre,Amanda Xeres[9],18,1.75,Saint-Doulchard,2014-10-04 00:00:00.000000000,Top 12 (12e),2015,True,5,2,7,False,,6
+Miss Centre,Amanda Xeres[9],18,1.75,Saint-Doulchard,2014-10-04 00:00:00.000000000,Top 12 (12e),2015,True,5,2,7,False,,35
 Miss Champagne-Ardenne,Mélissa Cervoni[10],20,1.77,Vanault-les-Dames,2014-10-10 00:00:00.000000000,,2015,False,0,0,0,False,,7
 Miss Corse,Dorine Rossi[11],20,1.83,Porto-Vecchio,2014-08-31 00:00:00.000000000,,2015,False,0,0,0,False,,8
 Miss Côte d'Azur,Charlotte Pirroni[12],21,1.7,Roquebrune-Cap-Martin,2014-08-03 00:00:00.000000000,2e dauphine,2015,True,10,10,20,True,3,9
@@ -158,16 +158,16 @@ Miss Midi-Pyrénées,Laura Pelos[22],24,1.8,Urdens,2014-10-10 00:00:00.000000000
 Miss Nord-Pas-de-Calais,Camille Cerf[23],19,1.8,Coulogne,2014-10-25 00:00:00.000000000,Miss France 2015,2015,True,12,12,24,True,1,20
 Miss Normandie,Estrella Ramirez[24],24,1.71,Sées,2014-09-26 00:00:00.000000000,Prix de l'Hospitalité,2015,False,0,0,0,False,,21
 Miss Nouvelle-Calédonie,Mondy Laigle[25],20,1.71,Nouméa,2014-08-23 00:00:00.000000000,6e dauphine,2015,True,3,7,10,False,,22
-Miss Orléanais,Solène Salmagne[26],19,1.75,Nogent-le-Roi,2014-10-05 00:00:00.000000000,,2015,False,0,0,0,False,,23
+Miss Orléanais,Solène Salmagne[26],19,1.75,Nogent-le-Roi,2014-10-05 00:00:00.000000000,,2015,False,0,0,0,False,,35
 Miss Pays de la Loire,Flavy Facon[27],21,1.76,Brain-sur-Allonnes,2014-09-20 00:00:00.000000000,,2015,False,0,0,0,False,,24
-Miss Pays de Savoie,Aurore Péron[28],18,1.76,Saint-Jean-de-Maurienne,2014-10-19 00:00:00.000000000,,2015,False,0,0,0,False,,25
+Miss Pays de Savoie,Aurore Péron[28],18,1.76,Saint-Jean-de-Maurienne,2014-10-19 00:00:00.000000000,,2015,False,0,0,0,False,,30
 Miss Picardie,Adeline Legris-Croisel[29],21,1.77,Amiens,2014-10-26 00:00:00.000000000,5e dauphine,2015,True,7,6,13,False,,26
 Miss Poitou-Charentes,Mathilde Hubert[30],19,1.73,Cherves-Richemont,2014-09-19 00:00:00.000000000,,2015,False,0,0,0,False,,27
 Miss Provence,Anne-Laure Fourmont[31],21,1.74,Toulon,2014-09-05 00:00:00.000000000,Top 12 (9e),2015,True,2,6,8,False,,28
 Miss Réunion,Ingreed Mercredi[32],19,1.71,Saint-Paul,2014-06-27 00:00:00.000000000,,2015,False,0,0,0,False,,29
 Miss Rhône-Alpes,Aurore Thibaud[33],20,1.73,Fontaine,2014-10-26 00:00:00.000000000,,2015,False,0,0,0,False,,30
 Miss Roussillon,Chena Vila Real Coimbra[34],20,1.7,Perpignan,2014-08-10 00:00:00.000000000,Top 12 (8e),2015,True,4,6,10,False,,31
-Miss Saint-Martin et Saint-Barthélemy,Nadika Matthew-Gauthier[35],19,1.72,Grand-Case,2014-07-27 00:00:00.000000000,,2015,False,0,0,0,False,,34
+Miss Saint-Martin et Saint-Barthélemy,Nadika Matthew-Gauthier[35],19,1.72,Grand-Case,2014-07-27 00:00:00.000000000,,2015,False,0,0,0,False,,37
 Miss Tahiti,Hinarere Taputu[36],24,1.74,Rurutu,2014-06-28 00:00:00.000000000,1re dauphine,2015,True,11,12,23,True,2,33
 Miss Alsace,Laura Muller[3],19,1.71,Sélestat[3],2015-09-06 00:00:00.000000000,Demi-finaliste,2016,True,7,5,12,False,,1
 Miss Aquitaine,Gennifer Demey[5],22,1.71,Lormont[5],2015-10-10 00:00:00.000000000,5e  dauphine,2016,True,6,7,13,False,,2
@@ -198,7 +198,7 @@ Miss Provence,Julia Courtès[44],18,1.72,Carry-le-Rouet[44],2015-07-31 00:00:00.
 Miss Réunion,Azuima Issa[46],19,1.8,Saint-Denis[46],2015-07-18 00:00:00.000000000,4e dauphine,2016,True,10,11,21,True,5,29
 Miss Rhône-Alpes,Nora Bengrine[48],20,1.72,Saint-Martin-d'Hères[réf. souhaitée],2015-10-18 00:00:00.000000000,Demi-finaliste,2016,True,2,4,6,False,,30
 Miss Roussillon,Anaïs Marin[49],21,1.78,Alénya[49],2015-07-28 00:00:00.000000000,,2016,False,0,0,0,False,,31
-Miss Saint-Pierre-et-Miquelon,Julie Briand[51],19,1.75,Saint-Pierre[réf. souhaitée],2015-07-10 00:00:00.000000000,,2016,False,0,0,0,False,,32
+Miss Saint-Pierre-et-Miquelon,Julie Briand[51],19,1.75,Saint-Pierre[réf. souhaitée],2015-07-10 00:00:00.000000000,,2016,False,0,0,0,False,,37
 Miss Tahiti,Vaimiti Teiefitu[53],18,1.77,Mahina[réf. souhaitée],2015-06-19 00:00:00.000000000,2e dauphine,2016,True,8,7,15,True,3,33
 Miss Alsace,Claire Godard,19,1.81,Riedisheim,2016-09-04 00:00:00.000000000,Demi-finaliste,2017,True,5,3,8,False,,1
 Miss Aquitaine,Axelle Bonnemaison,19,1.76,Castelculier,2016-10-08 00:00:00.000000000,Demi-finaliste,2017,True,3,3,6,False,,2
@@ -228,7 +228,7 @@ Miss Poitou-Charentes,Magdalène Chollet,19,1.72,Neuville-de-Poitou,2016-10-09 0
 Miss Provence,Noémie Mazella,19,1.76,Marseille,2016-07-30 00:00:00.000000000,Prix de l'élégance,2017,False,0,0,0,False,,28
 Miss Réunion,Ambre Nguyen,19,1.78,Saint-Denis,2016-08-27 00:00:00.000000000,5e dauphine,2017,True,7,7,14,False,,29
 Miss Rhône-Alpes,Camille Bernard,21,1.73,Saint-Étienne-du-Bois,2016-10-22 00:00:00.000000000,,2017,False,0,0,0,False,,30
-Miss Saint-Martin et Saint-Barthélemy,Anaëlle Hyppolite,18,1.75,Marigot,2016-08-20 00:00:00.000000000,Prix du maillot de bain,2017,False,0,0,0,False,,34
+Miss Saint-Martin et Saint-Barthélemy,Anaëlle Hyppolite,18,1.75,Marigot,2016-08-20 00:00:00.000000000,Prix du maillot de bain,2017,False,0,0,0,False,,37
 Miss Tahiti,Vaea Ferrand,22,1.75,Papeete,2016-06-24 00:00:00.000000000,2e dauphine,2017,True,11,9,20,True,3,33
 Miss Alsace,Joséphine Meisberger[2],21,1.7,Colmar[2],2017-09-03 00:00:00.000000000,,2018,False,0,0,0,False,,1
 Miss Aquitaine,Cassandra Jullia[4],18,1.72,Orthevielle[4],2017-10-07 00:00:00.000000000,5e dauphine,2018,True,5,9,14,False,,2
@@ -258,7 +258,7 @@ Miss Poitou-Charentes,Ophélie Forgit[51],20,1.71,Arvert[52],2017-10-08 00:00:00
 Miss Provence,Kleofina Pnishi (en)[53],23,1.7,Peyrolles-en-Provence[53],2017-07-29 00:00:00.000000000,Top 12,2018,True,2,7,9,False,,28
 Miss Réunion,Audrey Chane-Pao-Kan[55],19,1.71,Saint-Joseph[55],2017-08-26 00:00:00.000000000,4e dauphine,2018,True,9,11,20,True,5,29
 Miss Rhône-Alpes,Dalida Benaoudia[56],24,1.78,Lyon[réf. souhaitée],2017-10-21 00:00:00.000000000,Top 12,2018,True,1,4,5,False,,30
-Miss Saint-Pierre-et-Miquelon,Héloïse Urtizbéréa[57],18,1.8,Miquelon-Langlade[réf. souhaitée],2017-07-07 00:00:00.000000000,,2018,False,0,0,0,False,,32
+Miss Saint-Pierre-et-Miquelon,Héloïse Urtizbéréa[57],18,1.8,Miquelon-Langlade[réf. souhaitée],2017-07-07 00:00:00.000000000,,2018,False,0,0,0,False,,37
 Miss Tahiti,Turouru Temorere[58],21,1.7,Arue[58],2017-06-23 00:00:00.000000000,Prix de la sympathie,2018,False,0,0,0,False,,33
 Miss Alsace,Léa Reboul[5],22,1.74,Lingolsheim,2018-09-09 00:00:00.000000000,,2019,False,0,0,0,False,,1
 Miss Aquitaine,Carla Bonesso[7],20,1.76,Dax,2018-10-06 00:00:00.000000000,Top 12 (11e),2019,True,2,4,6,False,,2
@@ -288,7 +288,7 @@ Miss Poitou-Charentes,Marion Sokolik[32],23,1.74,Cognac,2018-10-07 00:00:00.0000
 Miss Provence,Wynona Gueraini[33],19,1.73,Marignane[34],2018-07-26 00:00:00.000000000,5e dauphine,2019,True,6,8,14,False,,28
 Miss Réunion,Morgane Soucramanien[35],18,1.74,Sainte-Marie,2018-08-25 00:00:00.000000000,3e dauphine,2019,True,8,7,15,True,4,29
 Miss Rhône-Alpes,Pauline Ianiro[36],19,1.78,Saint-Denis-lès-Bourg,2018-10-21 00:00:00.000000000,,2019,False,0,0,0,False,,30
-Miss Saint-Martin et Saint-Barthélemy,Allisson Georges[37],18,1.7,Marigot,2018-07-12 00:00:00.000000000,,2019,False,0,0,0,False,,34
+Miss Saint-Martin et Saint-Barthélemy,Allisson Georges[37],18,1.7,Marigot,2018-07-12 00:00:00.000000000,,2019,False,0,0,0,False,,37
 Miss Tahiti,Vaimalama Chaves[38],24,1.78,Mahina[41],2018-06-22 00:00:00.000000000,Miss France 2019,2019,True,12,12,24,True,1,33
 Miss Alsace,Laura Theodori[10],23,1.72,Strasbourg,2019-09-08 00:00:00.000000000,Top 15 (8e place)Prix du défilé,2020,True,6,11,17,False,,1
 Miss Aquitaine,Justine Delmas[11],21,1.78,Saint-Sauveur-de-Bergerac,2019-09-14 00:00:00.000000000,Top 15 (14e place),2020,True,3,7,10,False,,2
@@ -318,7 +318,7 @@ Miss Poitou-Charentes,Andréa Galland[34],19,1.72,Niort,2019-10-06 00:00:00.0000
 Miss Provence,Lou Ruat[35],18,1.7,Aix-en-Provence,2019-07-26 00:00:00.000000000,1re dauphine,2020,True,14,15,29,True,2,28
 Miss Réunion,Marie-Morgane Lebon[36],20,1.77,Saint-Joseph,2019-08-24 00:00:00.000000000,Top 15 (12e place),2020,True,8,7,15,False,,29
 Miss Rhône-Alpes,Chloé Prost[37],20,1.78,Légny,2019-10-19 00:00:00.000000000,Prix du maillot de bain,2020,False,0,0,0,False,,30
-Miss Saint-Martin et Saint-Barthélemy,Layla Berry[38],19,1.74,Grande Saline,2019-10-05 00:00:00.000000000,Top 15 (11e place),2020,True,4,11,15,False,,34
+Miss Saint-Martin et Saint-Barthélemy,Layla Berry[38],19,1.74,Grande Saline,2019-10-05 00:00:00.000000000,Top 15 (11e place),2020,True,4,11,15,False,,37
 Miss Tahiti,Matahari Bousquet[39],22,1.77,Moorea-Maiao,2019-06-21 00:00:00.000000000,2e dauphine,2020,True,13,7,20,True,3,33
 Miss Alsace,Aurélie Roux[24],24,1.72,Spechbach-le-Bas,2020-09-04 00:00:00.000000000,3e dauphine,2021,True,15,11,26,True,4,1
 Miss Aquitaine,Leïla Veslard[25],18,1.74,Saint-Mesmin,2020-08-29 00:00:00.000000000,Top 15 (11e place),2021,True,2,10,12,False,,2
@@ -412,7 +412,7 @@ Miss Provence,Chana Goyons,18,1.8,Gassin,2022-07-29 00:00:00.000000000,,2023,Fal
 Miss Réunion,Marion Marimoutou,18,1.72,Saint-André,2022-08-27 00:00:00.000000000,,2023,False,0,0,0,False,,29
 Miss Rhône-Alpes,Esther Coutin,24,1.71,Passy,2022-09-18 00:00:00.000000000,Top 15 (11e),2023,True,5,6,11,False,,30
 Miss Roussillon,Chiara Fontaine,20,1.74,Corneilla-del-Vercol,2022-08-07 00:00:00.000000000,Top 15 (13e),2023,True,4,6,10,False,,31
-Miss Saint-Martin et Saint-Barthélemy,Inès Tessier,20,1.71,Gustavia,2022-07-29 00:00:00.000000000,,2023,False,0,0,0,False,,34
+Miss Saint-Martin et Saint-Barthélemy,Inès Tessier,20,1.71,Gustavia,2022-07-29 00:00:00.000000000,,2023,False,0,0,0,False,,37
 Miss Tahiti,Herenui Tuheiava,24,1.77,Pirae,2022-06-24 00:00:00.000000000,Prix de l’aventurière,2023,False,0,0,0,False,,33
 Miss Alsace,Adeline Vetter,27,1.71,Rossfeld,2023-09-10 00:00:00.000000000,Prix de la culture générale[21],2024,False,0,0,0,False,,1
 Miss Aquitaine,Lola Turpin,19,1.73,Trélissac,2023-09-03 00:00:00.000000000,"Prix de la camaraderie[24]
